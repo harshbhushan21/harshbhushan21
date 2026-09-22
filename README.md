@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsh Bhushan
+#  Hi, I'm Harsh Bhushan
 
 ### 🤖 AI/ML • Data Science • Generative AI • Agentic AI
 
