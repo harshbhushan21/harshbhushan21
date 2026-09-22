@@ -160,8 +160,5 @@ Focused on:
 
 </p>
 
-I'm always interested in **AI/ML projects, interesting technical problems, research ideas, and opportunities to build useful AI systems.**
-
----
 
 
