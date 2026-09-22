@@ -1,10 +1,10 @@
-#  Hi, I'm Harsh Bhushan
+# Hi, I'm Harsh Bhushan
 
 ### 🤖 AI/ML • Data Science • Generative AI • Agentic AI
 
 I'm a **B.Tech Information Technology student at Manipal Institute of Technology, Bengaluru**, passionate about building intelligent systems and solving real-world problems through **Machine Learning, Data Science, Generative AI, and Agentic AI**.
 
-I enjoy working across the complete ML lifecycle — from **data collection and analysis to model development, deployment, and AI-powered applications**.
+I enjoy working across the complete ML lifecycle — from **data collection and analysis to model development, experimentation, deployment, and AI-powered applications**.
 
 ---
 
@@ -14,62 +14,91 @@ I enjoy working across the complete ML lifecycle — from **data collection and 
 * 🤖 Interested in **Machine Learning, Deep Learning & AI**
 * 📊 Passionate about **Data Science & Data Analytics**
 * 🧠 Exploring **Generative AI & Large Language Models**
-* 🔗 Learning and building with **RAG, LangChain & LangGraph**
-* ⚙️ Interested in **Agentic AI and AI-powered applications**
-* 🛠️ Experienced with building **end-to-end ML pipelines**
+* 🔗 Building with **RAG, LangChain & LangGraph**
+* ⚙️ Interested in **Agentic AI and AI-powered systems**
+* 🛠️ Experienced with **end-to-end ML pipelines and MLOps**
 * 🌱 Always learning and experimenting with new technologies
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
-</p>
-
-### 🤖 AI / Machine Learning
+## 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 </p>
 
-**Machine Learning:**
+`Python` • `SQL` • `Java` • `C` 
+
+---
+
+## 🤖 Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+**Machine Learning**
+
 `Scikit-learn` • `Regression` • `Classification` • `Feature Engineering` • `Model Evaluation` • `Hyperparameter Tuning`
 
-**Deep Learning:**
-`ANN` • `CNN` • `RNN` • `Transformers`
+**Deep Learning**
 
-**Generative AI:**
-`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Hugging Face`
-
-**MLOps:**
-`MLflow` • `Model Serialization` • `Docker` • `Experiment Tracking` • `Data Drift Detection`
+`PyTorch` • `TensorFlow` • `ANN` • `CNN` • `RNN` • `Transformers`
 
 ---
 
-### 📊 Data Science
-
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly` • `SQL` • `Jupyter`
-
----
-
-### 🌐 Development
+## 🧠 Generative AI & LLMs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,django" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
 </p>
 
-`FastAPI` • `Flask` • `Streamlit` • `Dash`
+`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Hugging Face` • `Prompt Engineering` • `AI Agents` • `Agentic AI`
 
 ---
 
-### 🗄️ Databases & Tools
+## 📊 Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly` • `Jupyter Notebook`
+
+---
+
+## ⚙️ MLOps & AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" />
+</p>
+
+`MLflow` • `Docker` • `Git` • `GitHub` • `Experiment Tracking` • `Model Serialization` • `Data Drift Detection` • `CI/CD`
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+`MongoDB` • `MySQL` • `SQL`
+
+---
+
+## 🚀 AI Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+`FastAPI` • `Flask` • `Streamlit`
 
 ---
 
@@ -125,7 +154,7 @@ Focused on:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/harshbhushan21/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -135,8 +164,4 @@ I'm always interested in **AI/ML projects, interesting technical problems, resea
 
 ---
 
-<p align="center">
 
-### 💡 *Build. Learn. Experiment. Repeat.*
-
-</p>
