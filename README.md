@@ -1,164 +1,87 @@
-# Hi, I'm Harsh Bhushan
+<img src="assets/hero.svg" alt="Harsh Bhushan: AI/ML, Data Science, Generative AI, Agentic AI" width="100%" />
 
-### 🤖 AI/ML • Data Science • Generative AI • Agentic AI
+<a href="https://www.linkedin.com/in/harshbhushan21/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://github.com/harshbhushan21"><img src="assets/pill-github.svg" alt="GitHub" height="44" /></a>
+<a href="mailto:hbbhushan21@gmail.com"><img src="assets/pill-email.svg" alt="Email" height="44" /></a>
 
-I'm a **B.Tech Information Technology student at Manipal Institute of Technology, Bengaluru**, passionate about building intelligent systems and solving real-world problems through **Machine Learning, Data Science, Generative AI, and Agentic AI**.
+<br />
 
-I enjoy working across the complete ML lifecycle — from **data collection and analysis to model development, experimentation, deployment, and AI-powered applications**.
+<img src="assets/sec-about.svg" alt="01 About" width="100%" />
 
----
+I'm Harsh, a B.Tech Information Technology student at Manipal Institute of Technology, Bengaluru. I build intelligent systems with machine learning, data science and agentic AI. I enjoy working across the full ML lifecycle, from data and experiments to deployment and AI-powered applications, and I learn best by building.
 
-## 🚀 About Me
+<br />
 
-* 🎓 B.Tech in Information Technology @ **Manipal Institute of Technology, Bengaluru**
-* 🤖 Interested in **Machine Learning, Deep Learning & AI**
-* 📊 Passionate about **Data Science & Data Analytics**
-* 🧠 Exploring **Generative AI & Large Language Models**
-* 🔗 Building with **RAG, LangChain & LangGraph**
-* ⚙️ Interested in **Agentic AI and AI-powered systems**
-* 🛠️ Experienced with **end-to-end ML pipelines and MLOps**
-* 🌱 Always learning and experimenting with new technologies
+<img src="assets/sec-projects.svg" alt="02 Featured Projects" width="100%" />
 
----
+<a href="https://github.com/harshbhushan21/TenderBridge"><img src="assets/card-tenderbridge.svg" alt="TenderBridge: agentic AI bid/no-bid copilot" width="32%" /></a>
+<a href="https://github.com/harshbhushan21/NetworkSecurity_ML_proj"><img src="assets/card-phishing.svg" alt="Network Phishing Detection: machine learning" width="32%" /></a>
+<a href="https://github.com/harshbhushan21/SpaceX-Falcon-9-Landing-Prediction"><img src="assets/card-spacex.svg" alt="SpaceX Falcon 9 Landing Prediction: data science" width="32%" /></a>
 
-# 🧠 Tech Stack
+<br />
 
-## 💻 Programming
+<img src="assets/sec-stack.svg" alt="03 Tech Stack" width="100%" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-</p>
-
-`Python` • `SQL` • `Java` • `C` 
-
----
-
-## 🤖 Machine Learning & Deep Learning
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Python-193347?style=for-the-badge&logo=python&logoColor=B7C7D6" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-193347?style=for-the-badge&logo=mysql&logoColor=B7C7D6" alt="SQL" />
 </p>
 
-**Machine Learning**
-
-`Scikit-learn` • `Regression` • `Classification` • `Feature Engineering` • `Model Evaluation` • `Hyperparameter Tuning`
-
-**Deep Learning**
-
-`PyTorch` • `TensorFlow` • `ANN` • `CNN` • `RNN` • `Transformers`
-
----
-
-## 🧠 Generative AI & LLMs
+**ML & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
+  <img src="https://img.shields.io/badge/Scikit--learn-193347?style=for-the-badge&logo=scikitlearn&logoColor=B7C7D6" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-193347?style=for-the-badge&logo=numpy&logoColor=B7C7D6" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-193347?style=for-the-badge&logo=pandas&logoColor=B7C7D6" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-193347?style=for-the-badge&logo=matplotlib&logoColor=B7C7D6" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-193347?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-193347?style=for-the-badge&logo=plotly&logoColor=B7C7D6" alt="Plotly" />
+  <img src="https://img.shields.io/badge/MLflow-193347?style=for-the-badge&logo=mlflow&logoColor=B7C7D6" alt="MLflow" />
 </p>
 
-`LLMs` • `RAG` • `LangChain` • `LangGraph` • `Hugging Face` • `Prompt Engineering` • `AI Agents` • `Agentic AI`
-
----
-
-## 📊 Data Science
+**GenAI & LLMs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/Hugging_Face-193347?style=for-the-badge&logo=huggingface&logoColor=B7C7D6" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-193347?style=for-the-badge&logo=langchain&logoColor=B7C7D6" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-193347?style=for-the-badge&logo=langchain&logoColor=B7C7D6" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-193347?style=for-the-badge&logo=langchain&logoColor=B7C7D6" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/FAISS-193347?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-193347?style=for-the-badge" alt="ChromaDB" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly` • `Jupyter Notebook`
-
----
-
-## ⚙️ MLOps & AI Engineering
+**Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" />
+  <img src="https://img.shields.io/badge/FastAPI-193347?style=for-the-badge&logo=fastapi&logoColor=B7C7D6" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-193347?style=for-the-badge&logo=flask&logoColor=B7C7D6" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-193347?style=for-the-badge&logo=streamlit&logoColor=B7C7D6" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Next.js-193347?style=for-the-badge&logo=nextdotjs&logoColor=B7C7D6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-193347?style=for-the-badge&logo=postgresql&logoColor=B7C7D6" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-193347?style=for-the-badge&logo=mongodb&logoColor=B7C7D6" alt="MongoDB" />
 </p>
 
-`MLflow` • `Docker` • `Git` • `GitHub` • `Experiment Tracking` • `Model Serialization` • `Data Drift Detection` • `CI/CD`
-
----
-
-## 🗄️ Databases
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Git-193347?style=for-the-badge&logo=git&logoColor=B7C7D6" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-193347?style=for-the-badge&logo=github&logoColor=B7C7D6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-193347?style=for-the-badge&logo=docker&logoColor=B7C7D6" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jupyter-193347?style=for-the-badge&logo=jupyter&logoColor=B7C7D6" alt="Jupyter" />
 </p>
 
-`MongoDB` • `MySQL` • `SQL`
+<br />
 
----
+<img src="assets/sec-certs.svg" alt="04 Certifications" width="100%" />
 
-## 🚀 AI Application Development
+<a href="https://coursera.org/share/ea96cc893ee128b90975208b4b387ecc"><img src="assets/cert-ibm.svg" alt="IBM Data Science Professional Certificate, Coursera" width="32%" /></a>
+<a href="https://www.udemy.com/certificate/UC-3ac66812-5e90-48cc-a146-5d76fefddbb0/"><img src="assets/cert-bootcamp.svg" alt="Data Science, ML, DL and NLP Bootcamp, Udemy" width="32%" /></a>
+<a href="https://www.udemy.com/certificate/UC-5bbc250e-ecc3-4279-8e71-31c5134bea47/"><img src="assets/cert-genai.svg" alt="Generative AI with LangChain and Hugging Face, Udemy" width="32%" /></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
+<br />
 
-`FastAPI` • `Flask` • `Streamlit`
+<img src="assets/sec-exploring.svg" alt="05 Currently Exploring" width="100%" />
 
----
-
-# 🧪 Currently Exploring
-
-```text
-Generative AI
-      ↓
-Large Language Models
-      ↓
-RAG
-      ↓
-LangChain
-      ↓
-LangGraph
-      ↓
-AI Agents
-      ↓
-Agentic AI Systems
-```
-
-I'm particularly interested in building systems where AI can **reason over external knowledge, use tools, maintain context, and execute multi-step workflows**.
-
----
-
-# 📚 Certifications
-
-### IBM Data Science Professional Certificate
-
-Developed practical knowledge of:
-
-`Python` • `SQL` • `Pandas` • `Data Visualization` • `Machine Learning` • `Data Analysis`
-
-### Data Science, Machine Learning, Deep Learning & NLP
-
-Hands-on coursework covering:
-
-`Python` • `ML` • `DL` • `NLP` • `ANN` • `CNN` • `RNN` • `Transformers`
-
-### Generative AI with LangChain & Hugging Face
-
-Focused on:
-
-`LLMs` • `Prompt Engineering` • `LangChain` • `Hugging Face` • `RAG` • `Generative AI`
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/harshbhushan21">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/harshbhushan21/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
-
-
+Agentic AI systems that reason over external knowledge, use tools, keep context and run multi-step workflows. Right now that means RAG, LangChain and LangGraph, plus evaluation and observability for LLM applications.
