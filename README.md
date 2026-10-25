@@ -1,7 +1,6 @@
 <img src="assets/hero.svg" alt="Harsh Bhushan: AI/ML, Data Science, Generative AI, Agentic AI" width="100%" />
 
 <a href="https://www.linkedin.com/in/harshbhushan21/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="44" /></a>
-<a href="https://github.com/harshbhushan21"><img src="assets/pill-github.svg" alt="GitHub" height="44" /></a>
 <a href="mailto:hbbhushan21@gmail.com"><img src="assets/pill-email.svg" alt="Email" height="44" /></a>
 
 <br />
