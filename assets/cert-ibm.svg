@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="190" viewBox="0 0 284 190" role="img">
+<style>text{font-family:Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif;}</style>
+
+<rect width="284" height="190" rx="18" fill="#061C2C"/>
+<rect x="0.5" y="0.5" width="283" height="189" rx="18" fill="none" stroke="#4F6478" opacity="0.5"/>
+<text x="30" y="40" font-size="12" font-weight="600" letter-spacing="2.2" fill="#91A1B2">IBM  •  COURSERA</text>
+<path d="M240 40 L252 28 M242 28 H252 V38" fill="none" stroke="#B7C7D6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="30" y="54" width="32" height="2.5" rx="1.2" fill="#91A1B2" opacity="0.8"/>
+<text x="30" y="92" font-size="17" font-weight="700" fill="#E8EEF3">IBM Data Science</text>
+<text x="30" y="116" font-size="17" font-weight="700" fill="#E8EEF3">Professional Certificate</text>
+<text x="30" y="144" font-size="12.5" fill="#B7C7D6">Python, SQL, data analysis,</text>
+<text x="30" y="163" font-size="12.5" fill="#B7C7D6">visualization and machine learning.</text>
+
+
+</svg>

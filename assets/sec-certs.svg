@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="112" viewBox="0 0 880 112" role="img">
+<style>text{font-family:Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif;}</style>
+
+<rect width="880" height="112" rx="16" fill="#061C2C"/>
+<rect x="0.5" y="0.5" width="879" height="111" rx="16" fill="none" stroke="#193347"/>
+<text x="32" y="36" font-size="15" font-weight="600" letter-spacing="3" fill="#91A1B2">04</text>
+<text x="31" y="78" font-size="38" font-weight="700" letter-spacing="-0.8" fill="#E8EEF3">Certifications</text>
+<rect x="32" y="94" width="64" height="3" rx="1.5" fill="#91A1B2"/>
+<rect x="96" y="95" width="752" height="1" fill="#334B60"/>
+
+</svg>

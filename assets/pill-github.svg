@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="48" viewBox="0 0 132 48" role="img">
+<style>text{font-family:Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif;}</style>
+
+<rect x="1" y="1" width="130" height="46" rx="23" fill="#061C2C" stroke="#334B60" stroke-width="1.5"/>
+<text x="26" y="30" font-size="17" font-weight="500" fill="#E8EEF3">GitHub</text>
+<path d="M94 29 L105 18 M96 18 H105 V27" fill="none" stroke="#E8EEF3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
