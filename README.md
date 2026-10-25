@@ -80,4 +80,3 @@ I'm Harsh, a B.Tech Information Technology student at Manipal Institute of Techn
 <a href="https://www.udemy.com/certificate/UC-5bbc250e-ecc3-4279-8e71-31c5134bea47/"><img src="assets/cert-genai.svg" alt="Generative AI with LangChain and Hugging Face, Udemy" width="32%" /></a>
 
 <br />
-stems that reason over external knowledge, use tools, keep context and run multi-step workflows. Right now that means RAG, LangChain and LangGraph, plus evaluation and observability for LLM applications.
